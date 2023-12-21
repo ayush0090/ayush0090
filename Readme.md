@@ -1,4 +1,4 @@
-<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hi%20This%20is%20Ayush%20Verma&width=800&height=400">
+<!--<img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Hi%20This%20is%20Ayush%20Verma&width=800&height=400">
 
 - 🔭 I’m currently working on Android Dev
 - 🌱 I’m currently learning Android Java
@@ -7,9 +7,9 @@
 - 📫 How to reach me: ayushverma1016@gmail.com
 - 😄 Pronouns: He/Him
 <img src="https://github-readme-stats.vercel.app/api?username=ayush0090&show_icons=true&locale=en&theme=gotham&hide_border=true">
+-->
 
-
-<!--<h1 align="center">Hi 👋, I'm Ayush</h1>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0090&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0090" /> </p>
@@ -41,4 +41,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush0090&show_icons=true&locale=en" alt="ayush0090" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush0090&" alt="ayush0090" /></p>
--->
+
