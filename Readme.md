@@ -11,8 +11,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.deviantart.com/jaurisse69/art/Asus-ROG-Design-GIF-973180399)
-">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/xKgV6tuCC5ztFYgz7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush0090&label=Profile%20views&color=0e75b6&style=flat" alt="ayush0090" /> </p>
 
